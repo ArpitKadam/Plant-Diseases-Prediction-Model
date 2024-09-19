@@ -1,0 +1,6 @@
+streamlit==1.25.0       # For creating the web interface
+tensorflow==2.14.0      # For machine learning and neural networks
+numpy==1.25.2           # For numerical operations
+pandas==2.1.0           # For data manipulation and handling
+matplotlib==3.8.0       # For plotting data
+seaborn==0.12.2         # For statistical data visualization
